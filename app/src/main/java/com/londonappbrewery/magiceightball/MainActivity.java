@@ -37,14 +37,3 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
-
-
-//gfdgdfgdfgfdf
-//mGfdgdfgdfgfdfg
-//        dfg
-//df
-//
-//                gfd
-//gdf
-//
