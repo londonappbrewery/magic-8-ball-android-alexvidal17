@@ -30,12 +30,21 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Random randomNumberGenerator = new Random();
-
                 int number = randomNumberGenerator.nextInt(5);
-
                 ballDisplay.setImageResource(ballArray[number]);
             }
         });
 
     }
 }
+
+
+
+//gfdgdfgdfgfdf
+//mGfdgdfgdfgfdfg
+//        dfg
+//df
+//
+//                gfd
+//gdf
+//
